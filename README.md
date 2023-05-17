@@ -4,12 +4,9 @@
 
 ## Education
 
-2022 ~ [
+-2022 ~ now [
 
-Harbin Engineering University
-
-
-](http://www.hrbeu.edu.cn/),Bacheloring
+Harbin Engineering University](http://www.hrbeu.edu.cn/),Bacheloring
 
 
 
@@ -17,4 +14,4 @@ Harbin Engineering University
 
 ## Work Experience
 
-none
+-none
